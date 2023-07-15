@@ -35,8 +35,8 @@ Get involved, share your expertise, and let's make community management an even 
 * [Community Content: How to Build Your Community ‘Snack Table’](https://www.commsor.com/post/community-content)
 
 ## Videos
-* [https://www.youtube.com/watch?v=uGdW4X7mjX0](https://www.youtube.com/watch?v=uGdW4X7mjX0)
-* [https://www.youtube.com/c/EvgeniiPermiakov/videos](https://www.youtube.com/c/EvgeniiPermiakov/videos)
+* [Shifting to Online Community: The Future of DevRel](https://www.youtube.com/watch?v=uGdW4X7mjX0)
+* [Introduction to Community Management](https://www.youtube.com/watch?v=NmdKaNAX0uo&pp=ygUUY29tbXVuaXR5IG1hbmFnZW1lbnQ%3D)
 
 ## Communities
 * [CMX Hub](https://cmxhub.com/)
@@ -53,8 +53,6 @@ Get involved, share your expertise, and let's make community management an even 
 * [Shannon Emery](https://www.linkedin.com/in/shannon-m-emery/) — Community Manager Higher Logic
 * [Evan Hamilton](https://www.linkedin.com/in/evanhamilton/) — Director of Community, Hubspot
 * [Alan Aisbitt](https://www.linkedin.com/in/alan-aisbitt/) — Director of Community at Splunk
-* [Laura Nestler](https://www.linkedin.com/in/lauranestler/) —VP of Community at Reddit
-* [Brian Oblinger](https://www.linkedin.com/in/brianoblinger/) — Strategic community consultant
 
 ## Community Management Courses
 * [CSchool Self paced](https://www.community.club/c-school) by Community Club (Free)
@@ -69,9 +67,32 @@ Get involved, share your expertise, and let's make community management an even 
 * [Community Chic Newsletter](https://www.linkedin.com/newsletters/6885171504909287424?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BNRMwqcBTR1CnfuLqe2%2FaSg%3D%3D)
 * [DevRel Weekly](http://devrelweekly.com/)
 
+## Tools
+### Community Analytics
+* [Orbit](https://orbit.love)
+* [Common Room](https://www.commonroom.io/)
+  
+### Productivity and Content Planning
+* [Notion](https://notion.so) - for keeping all project-related information in one place.
+* [Grammarly](https://grammarly.com) - for vetting your texts.
+* [Quillbot](https://quillbot.com) - for rewriting and enhancing your sentences.
+* [Mirror]() - for visual collaboration.
+
+### Graphics
+* [Canva]() - for creating graphics, presentations, and even video editing
+* [Invideo]() - for video editing
+
+### AI Tools
+* [Chat GPT](https://chat.openai.com)
+* [Hugging Face](https://huggingface.co/)
+
+## Build Your Portfolio
+A community manager's role varies from company to company, but [here's a typical description](https://resources.workable.com/community-manager-job-description) of a community manager's job.
+
 ## Where to find community Management Jobs
 * [CMX Hub Job Board](https://www.cmxhub.com/jobs)
 * [Led By Community Job Board](https://jobs.ledby.community/)
 * [Community Club Job Board](https://www.community.club/jobs)
 * [LinkedIn](https://linkedin.com/)
 * [David Spink’s Talent Collective](https://davidspinks.pallet.com/talent/welcome)
+
