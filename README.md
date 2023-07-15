@@ -4,7 +4,7 @@
 
 Welcome to the Community Management Starter Pack repository! This collaborative space is dedicated to providing a comprehensive collection of resources tailored to beginners in the field of Community Management. It doesn't matter if you're just starting your journey or seeking to enhance your existing skills, this repository aims to be a go-to hub for valuable insights, guides, and best practices.
 
-Within this repository, you'll find a growing collection of articles, tutorials, templates, and tools curated specifically for aspiring community managers. For a more basic knowledge of what community management is, the skills required to become a community managerand some tips on how to land a job, please refer to this [introductory article](https://amarachi-johnson.medium.com/beginners-guide-a-community-manager-s-handbook-cf3d0532d3d8)☺️
+Within this repository, you'll find a growing collection of articles, tutorials, templates, and tools curated specifically for aspiring community managers. For a more basic knowledge of what community management is, the skills required to become a community manager and some tips on how to land a job, please refer to this [introductory article](https://amarachi-johnson.medium.com/beginners-guide-a-community-manager-s-handbook-cf3d0532d3d8)☺️
 
 Contributions are highly encouraged! Do you have a helpful guide to share, an insightful article, or a useful tool? Please feel free to contribute and make a positive impact on the community management community. I believe that together, we can build a comprehensive resource hub that empowers individuals at every stage of their community management journey.
 
@@ -63,6 +63,11 @@ Get involved, share your expertise, and let's make community management an even 
 * [Community Management Master](https://www.digitalmarketer.com/certifications/community-management-mastery/) at Digital Marketer ($495)
 
 ## Community Management Newsletters
+* [David Spinks' Newsletter](https://davidspinks.substack.com/)
+* [Lenny's Newsletter](https://www.lennysnewsletter.com/)
+* [CMX Hub's Newsletter](https://cmxhub.com/subscribe/)
+* [Community Chic Newsletter](https://www.linkedin.com/newsletters/6885171504909287424?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BNRMwqcBTR1CnfuLqe2%2FaSg%3D%3D)
+* [DevRel Weekly](http://devrelweekly.com/)
 
 ## Where to find community Management Jobs
 * [CMX Hub Job Board](https://www.cmxhub.com/jobs)
