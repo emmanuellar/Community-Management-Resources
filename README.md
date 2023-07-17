@@ -11,9 +11,9 @@ Contributions are highly encouraged! Do you have a helpful guide to share, an in
 Get involved, share your expertise, and let's make community management an even more rewarding experience for everyone!
 
 ## Table of Content
-* [Articles](#articles)
-* [Videos](#videos)
-* [Communities to join](#communities)
+* [Articles](https://github.com/emmanuellar/Community-Management-Resources/main/README.md#articles)
+* [Videos](https://github.com/emmanuellar/Community-Management-Resources/main/README.md#videos)
+* [Communities to join](https://github.com/emmanuellar/Community-Management-Resources/main/README.md#communities)
 * [Some Community Managers to follow](#some-community-managers-to-follow)
 * [Community Management courses](#community-management-courses)
 * [Community Management Newsletter](#community-management-newsletters)
@@ -25,6 +25,7 @@ Get involved, share your expertise, and let's make community management an even 
 * [Building Community by Lenny](https://www.lennysnewsletter.com/p/building-community)
 * [How to Become a better developer community manager](https://www.codemotion.com/magazine/dev-hub/community-manager/better-community-manager/)
 * [Community ≠ Marketing: Why We Need Go-to-Community, Not Just Go-to-Market](https://future.a16z.com/community-%E2%89%A0-marketing-why-we-need-go-to-community-not-just-go-to-market/)
+* [The Beginner's Guide to Community Management](https://www.feverbee.com/the-beginners-guide-to-community-management/)
 #### Building Communities
 * [Building Vibrant Developer Communities](https://www.heavybit.com/library/blog/building-vibrant-developer-communities/)
 * [How to Build a New Community from Scratch](https://cmxhub.com/how-build-new-community/)
