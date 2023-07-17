@@ -79,11 +79,16 @@ Get involved, share your expertise, and let's make community management an even 
 * [Notion](https://notion.so) - for keeping all project-related information in one place.
 * [Grammarly](https://grammarly.com) - for vetting your texts.
 * [Quillbot](https://quillbot.com) - for rewriting and enhancing your sentences.
-* [Mirror]() - for visual collaboration.
+* [Mirror](https://mirror.xyz) - for visual collaboration.
 
-### Graphics
-* [Canva]() - for creating graphics, presentations, and even video editing
-* [Invideo]() - for video editing
+### Graphics & Video
+* [Canva](https://canva.com) - for creating graphics, presentations, and even video editing
+* [Invideo](https://invideo.com) - for video editing
+* [Loom](https://www.loom.com/) - Asynchronous video messaging
+
+### Event Tools
+* [Luma](https://lu.ma) - for setting up events and ticket sales
+* [Streamyard](https://streamyard.com/) - for live streaming
 
 ### AI Tools
 * [Chat GPT](https://chat.openai.com)
