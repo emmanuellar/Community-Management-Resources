@@ -52,10 +52,11 @@ Get involved, share your expertise, and let's make community management an even 
 * [Rosie Sherry](https://www.linkedin.com/in/rosiesherry/) — Founder RossieLand
 * [David Spinks](https://www.linkedin.com/in/davidspinks/) — Founder CMX
 * [Laís de Oliveira](https://www.linkedin.com/in/laisdeoliveira/) — Author, Building Communities 
-* [Krystal Wu](https://www.linkedin.com/in/krystalwu/) — Community Manager Shopify 
-* [Shannon Emery](https://www.linkedin.com/in/shannon-m-emery/) — Community Manager Higher Logic
+* [Krystal Wu](https://www.linkedin.com/in/krystalwu/) — Senior Community Manager, ZoomInfo
+* [Kamaldeen Kehinde](https://www.linkedin.com/in/kenkarmah/) - Community Specialist, Ingressive for Good
+* [Shannon Emery](https://www.linkedin.com/in/shannon-m-emery/) — Community Manager, Higher Logic
 * [Evan Hamilton](https://www.linkedin.com/in/evanhamilton/) — Director of Community, Hubspot
-* [Alan Aisbitt](https://www.linkedin.com/in/alan-aisbitt/) — Director of Community at Splunk
+* [Olga Koenig](https://www.linkedin.com/in/olga-koenig-108/) - Community Consultant
 
 ## Community Management Courses
 * [CSchool Self paced](https://www.community.club/c-school) by Community Club (Free)
