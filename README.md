@@ -11,9 +11,9 @@ Contributions are highly encouraged! Do you have a helpful guide to share, an in
 Get involved, share your expertise, and let's make community management an even more rewarding experience for everyone!
 
 ## Table of Content
-* [Articles](https://github.com/emmanuellar/Community-Management-Resources/main/README.md#articles)
-* [Videos](https://github.com/emmanuellar/Community-Management-Resources/main/README.md#videos)
-* [Communities to join](https://github.com/emmanuellar/Community-Management-Resources/main/README.md#communities)
+* [Articles](##articles)
+* [Videos](##videos)
+* [Communities to join](#communities)
 * [Some Community Managers to follow](#some-community-managers-to-follow)
 * [Community Management courses](#community-management-courses)
 * [Community Management Newsletter](#community-management-newsletters)
