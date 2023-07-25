@@ -17,6 +17,7 @@ Get involved, share your expertise, and let's make community management an even 
 * [Some Community Managers to follow](#some-community-managers-to-follow)
 * [Community Management courses](#community-management-courses)
 * [Community Management Newsletter](#community-management-newsletters)
+* [Books](#Books)
 * [Tools](#tools)
 * [Build your Portfolio](#build-your-portfolio)
 * [Where to find Community Management Jobs](#where-to-find-community-management-jobs)
