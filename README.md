@@ -71,6 +71,13 @@ Get involved, share your expertise, and let's make community management an even 
 * [Community Chic Newsletter](https://www.linkedin.com/newsletters/6885171504909287424?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BNRMwqcBTR1CnfuLqe2%2FaSg%3D%3D)
 * [DevRel Weekly](http://devrelweekly.com/)
 
+## Books
+* The Business of Belonging by David Spinks
+* Developer Marketing does not Exist by Adam Luvander
+* Tribes by Seth Godin
+* Online Community Management For Dummies by Deborah Ng
+* The Art of Community: Building the New Age of Participation by Jono Bacon
+
 ## Tools
 ### Community Analytics
 * [Orbit](https://orbit.love)
