@@ -98,6 +98,7 @@ Get involved, share your expertise, and let's make community management an even 
 ### Event Tools
 * [Luma](https://lu.ma) - for setting up events and ticket sales
 * [Streamyard](https://streamyard.com/) - for live streaming
+* [Icebreakers](https://docs.google.com/document/d/1j4rj883slFvh1zZLGedqQFM0wqCrHlIEPE62K0LkKak/edit?mc_cid=02bb085414&mc_eid=241d9fac3e) - a repo of icebreakers for your events
 
 ### AI Tools
 * [Chat GPT](https://chat.openai.com)
