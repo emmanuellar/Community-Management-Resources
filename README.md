@@ -9,8 +9,6 @@ Within this repository, you'll find a growing collection of articles, tutorials,
 
 Contributions are highly encouraged! Do you have a helpful guide to share, an insightful article, or a useful tool? Please feel free to contribute and make a positive impact on the community management community. I believe that together, we can build a comprehensive resource hub that empowers individuals at every stage of their community management journey.
 
-Get involved, share your expertise, and let's make community management an even more rewarding experience for everyone!
-
 ## Table of Content
 * [Articles](##articles)
 * [Videos](##videos)
