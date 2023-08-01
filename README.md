@@ -1,5 +1,6 @@
 # Community Management Resources For Beginners
-![cm header](https://github.com/emmanuellar/Community-Management/assets/41474439/515e2325-c3a0-45ac-bd10-df252a42622e)
+![kelly-sikkema-7hspi6m0yO4-unsplash](https://github.com/emmanuellar/Community-Management-Resources/assets/41474439/2c116f0b-cde7-4d5f-a30d-88087c4e51c3)
+
 
 
 Welcome to the Community Management Starter Pack repository! This collaborative space is dedicated to providing a comprehensive collection of resources tailored to beginners in the field of Community Management. It doesn't matter if you're just starting your journey or seeking to enhance your existing skills, this repository aims to be a go-to hub for valuable insights, guides, and best practices.
