@@ -15,7 +15,7 @@ Contributions are highly encouraged! Do you have a helpful guide to share, an in
 * [Communities to join](#communities)
 * [Some Community Managers to follow](#some-community-managers-to-follow)
 * [Community Management courses](#community-management-courses)
-* [Community Management Newsletter](#community-management-newsletters)
+* [Community Management Newsletters](#community-management-newsletters)
 * [Books](#Books)
 * [Tools](#tools)
 * [Build your Portfolio](#build-your-portfolio)
@@ -49,7 +49,7 @@ Contributions are highly encouraged! Do you have a helpful guide to share, an in
 * [Community Club](https://www.community.club/)
 
 ## Some Community Managers to Follow
-* [Rosie Sherry](https://www.linkedin.com/in/rosiesherry/) — Founder RossieLand
+* [Rosie Sherry](https://www.linkedin.com/in/rosiesherry/) — Founder RosieLand
 * [David Spinks](https://www.linkedin.com/in/davidspinks/) — Founder CMX
 * [Laís de Oliveira](https://www.linkedin.com/in/laisdeoliveira/) — Author, Building Communities 
 * [Krystal Wu](https://www.linkedin.com/in/krystalwu/) — Senior Community Manager, ZoomInfo
@@ -66,7 +66,6 @@ Contributions are highly encouraged! Do you have a helpful guide to share, an in
 
 ## Community Management Newsletters
 * [David Spinks' Newsletter](https://davidspinks.substack.com/)
-* [Lenny's Newsletter](https://www.lennysnewsletter.com/)
 * [CMX Hub's Newsletter](https://cmxhub.com/subscribe/)
 * [Community Chic Newsletter](https://www.linkedin.com/newsletters/6885171504909287424?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BNRMwqcBTR1CnfuLqe2%2FaSg%3D%3D)
 * [DevRel Weekly](http://devrelweekly.com/)
