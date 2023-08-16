@@ -103,8 +103,8 @@ Contributions are highly encouraged! Do you have a helpful guide to share, an in
 * [Hugging Face](https://huggingface.co/)
 
 ## Build Your Portfolio
-A community manager's role varies from company to company, but [here's a typical description](https://resources.workable.com/community-manager-job-description) of a community manager's job.
-* [A Community Manager 's Portfolio by Fibi](https://fibi-portfolio.notion.site/fibi-portfolio/Work-Portfolio-9c3694086b234a72aa461cb479abcdb6)
+* A community manager's role varies from company to company, but [this document](https://www.notion.so/Community-Job-Descriptions-Database-06eda4aecbf3432db62e1678da11eaec) contains different community roles and their job descriptions.
+* [A Community Manager's Portfolio by Fibi](https://fibi-portfolio.notion.site/fibi-portfolio/Work-Portfolio-9c3694086b234a72aa461cb479abcdb6)
 
 ## Where to find community Management Jobs
 * [CMX Hub Job Board](https://www.cmxhub.com/jobs)
