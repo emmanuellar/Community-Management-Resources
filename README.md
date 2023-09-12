@@ -63,7 +63,7 @@ Contributions are highly encouraged! Do you have a helpful guide to share, an in
 * [The Community MBA](https://www.cmxhub.com/academy) by CMX Academy ($499 — scholarship available)
 * [Meta Certified Community Manager Course](https://www.facebook.com/business/learn/digital-skills-programs/community-leaders) ($150)
 * [Community Management Master](https://www.digitalmarketer.com/certifications/community-management-mastery/) by Digital Marketer ($495)
-* [Community Strategy Academy](https://communitystrategyacademy.com/) (Free and paid courses)
+* [Community Strategy Academy](https://communitystrategyacademy.com/) - (Free and paid courses)
 
 ## Community Management Newsletters
 * [David Spinks' Newsletter](https://davidspinks.substack.com/)
