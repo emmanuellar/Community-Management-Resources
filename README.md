@@ -79,6 +79,9 @@ Contributions are highly encouraged! Do you have a helpful guide to share, an in
 * The Art of Community: Building the New Age of Participation by Jono Bacon
 
 ## Tools
+### Telegram Community Operations
+* [OpenSparta](https://opensparta.com/en) - Telegram operations SaaS workspace for conversation discovery, connected-account management, and proxy operations. (Self-submission by the OpenSparta team.)
+
 ### Community Analytics
 * [Orbit](https://orbit.love)
 * [Common Room](https://www.commonroom.io/)
